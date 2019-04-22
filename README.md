@@ -1,2 +1,3 @@
 # scanner-linear
-Repositório do projeto Scanner Linear de Livros.
+Repositório do projeto Scanner Linear de Livros, baseado em:
+https://linearbookscanner.org/
